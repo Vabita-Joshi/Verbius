@@ -1,0 +1,9 @@
+pvleopard
+torch
+transformers
+matplotlib
+langchain_core
+langchain_groq
+pydub
+python-dotenv
+soundfile
